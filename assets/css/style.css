@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.technologyDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row {
+display: flex;
+flex-direction: row;
+}
+
+svg {
+    width: 25px;
+    height: 25px;
+}
+
+svg path {
+    fill: white;
+}
